@@ -2,7 +2,7 @@
 
 Download the file from the "Releases" tab.
 
-# <ins>**All Unlocked items till v3.10.8**</ins>
+### <ins>**All Unlocked items till v3.10.8**</ins>
 
 1. Download the - " MonetizationVars " file.
 2. Download ZArchive from Playstore.
