@@ -1,6 +1,6 @@
 # Bitlife Unlocker v3.10.8
 
-Download the file from the "Releases" tab.
+## **Download the file from the "Releases" tab.**
 
 ### <ins>**All Unlocked items till v3.10.8**</ins>
 
