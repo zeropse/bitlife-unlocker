@@ -1,4 +1,4 @@
-# bitlifemod v3.10.8
+# bitlife unlocker v3.10.8
 
 Download the file from the "Releases" tab.
 
