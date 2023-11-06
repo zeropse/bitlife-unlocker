@@ -1,6 +1,6 @@
 # Bitlife Unlocker v3.11.6
 
-## **Download the file from the "Releases" tab.**
+## **Download the file from the ["Releases"][https://github.com/zeropse/bitlife-unlocker/releases/tag/3.11.6] tab.**
 
 ### <ins>**All Unlocked items till v3.11.6**</ins>
 
