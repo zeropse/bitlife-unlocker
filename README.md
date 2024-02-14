@@ -1,6 +1,6 @@
 # Bitlife Unlocker v3.12.7
 
-**Download the file from the ["Releases"](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.12.7) tab.**
+**Download the file from the ["Releases"](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.12.7) tab.** <br >Always use the "Latest" Release.
 
 **<ins>All Unlocked items till v3.12.7</ins>**
 
@@ -14,6 +14,5 @@
 8. Done.
 
 Now Enjoy Free items ❤️❤️
-
 
 Last Updated - 14/02/2024
