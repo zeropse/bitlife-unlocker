@@ -1,8 +1,8 @@
-# Bitlife Unlocker v3.12.6
+# Bitlife Unlocker v3.12.7
 
-**Download the file from the ["Releases"](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.12.6) tab.**
+**Download the file from the ["Releases"](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.12.7) tab.**
 
-**<ins>All Unlocked items till v3.12.6</ins>**
+**<ins>All Unlocked items till v3.12.7</ins>**
 
 1. Download the - " MonetizationVars " file.
 2. Download ZArchive from Playstore.
@@ -16,4 +16,4 @@
 Now Enjoy Free items ❤️❤️
 
 
-Last Updated - 12/02/2024
+Last Updated - 14/02/2024
