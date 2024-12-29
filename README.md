@@ -1,4 +1,7 @@
-# Bitlife Unlocker v3.15.6
+# THIS IS NOT BEING MAINTAINED ANYMORE.
+
+
+### Bitlife Unlocker v3.15.6
 
 **Download the file from the ["Releases"](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.15.6) tab.** <br><br> More Details found in the Releases Page. <br><br> Always use the "Latest" Release.
 
