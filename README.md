@@ -1,8 +1,28 @@
-### Bitlife Unlocker v3.19.5
+# 🎮 BitLife Unlocker
 
-**Download the file from the ["Releases"](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.19.5) tab.** <br><br> More Details found in the Releases Page. <br><br> Always use the "Latest" Release.
+![Version](https://img.shields.io/badge/version-v3.19.5-blue.svg) ![Last Updated](https://img.shields.io/badge/last%20updated-July%2021,%202025-orange.svg)
 
-The Main Update will only be available when a new item/job pack/expansion/other new things are introduced in the game. So even if the version available in the "Releases" tab is not up-to-date, try it once it might work.
+## 📥 Download
 
-<br><br>
-Last Updated - 21/07/2025
+**[📦 Download from Releases](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.19.5)**
+
+> **⚡ Quick Tip:** Always use the **"Latest"** release for the best experience!
+
+## 📋 Important Information
+
+### 📱 Android Only
+
+This is designed exclusively for **Android devices**. It does not work on iOS or other platforms.
+
+### 🔄 Update Schedule
+
+The main updates are released when new content is introduced in BitLife, including:
+
+- 🆕 New item packs
+- 💼 Job pack expansions
+- 🎯 Game expansions
+- ✨ Other new features
+
+### ⚠️ Compatibility Note
+
+Even if the version in the releases tab appears outdated, it's worth trying as it might still work with newer game versions.
