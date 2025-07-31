@@ -1,10 +1,10 @@
 # 🎮 BitLife Unlocker
 
-![Version](https://img.shields.io/badge/version-v3.19.5-blue.svg) ![Last Updated](https://img.shields.io/badge/last%20updated-July%2021,%202025-orange.svg)
+![Version](https://img.shields.io/badge/version-v3.19.7-blue.svg) ![Last Updated](https://img.shields.io/badge/last%20updated-August%201,%202025-orange.svg)
 
 ## 📥 Download
 
-**[📦 Download from Releases](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.19.5)**
+**[📦 Download from Releases](https://github.com/zeropse/bitlife-unlocker/releases/tag/3.19.7)**
 
 > **⚡ Quick Tip:** Always use the **"Latest"** release for the best experience!
 
@@ -25,4 +25,4 @@ The main updates are released when new content is introduced in BitLife, includi
 
 ### ⚠️ Compatibility Note
 
-Even if the version in the releases tab appears outdated, it's worth trying as it might still work with newer game versions.
+Even if the version in the releases appears outdated, it's worth trying as it might still work with newer game versions.
