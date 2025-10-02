@@ -1,4 +1,6 @@
-# 🎮 BitLife Unlocker
+# THIS IS NOT BEING MAINTAINED ANYMORE.
+
+## 🎮 BitLife Unlocker
 
 ![Version](https://img.shields.io/badge/version-v3.19.7-blue.svg) ![Last Updated](https://img.shields.io/badge/last%20updated-August%201,%202025-orange.svg)
 
